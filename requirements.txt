@@ -3,4 +3,7 @@ numpy
 matplotlib
 seaborn
 openpyxl
-ttkbootstrap
+ttkbootstrap~=1.13.11
+
+pillow~=10.4.0
+customtkinter~=5.2.2
